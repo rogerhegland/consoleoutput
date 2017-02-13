@@ -17,7 +17,7 @@ Consoleoutput::writeT('<green>Hello, I am green</green>');
 Consoleoutput::writeLnT('<green>Hello, I am green</green>');
 
 // print a white text with a blue background
-Consoleoutput::write('<white><b_blue>Hello, I am green</b_blue></white>');
+Consoleoutput::write('<white><b_blue>Hello, I am white with a blue background</b_blue></white>');
 
 // Possibles foreground colors
 // - black
